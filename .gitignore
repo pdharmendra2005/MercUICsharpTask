@@ -119,14 +119,14 @@ ServiceFabricBackup/
 ## Application specific
 appsettings.Development.json
 appsettings.Local.json
-/obj/Debug/net8.0/TestProject1.AssemblyInfoInputs.cache
-/obj/Debug/net8.0/ref/TestProject1.dll
-/obj/Debug/net8.0/TestProject1.csproj.FileListAbsolute.txt
-/obj/Debug/net8.0/TestProject1.dll
-/obj/Debug/net8.0/TestProject1.pdb
-/bin/Debug/net8.0/TestProject1.dll
-/bin/Debug/net8.0/TestProject1.pdb
-/obj/Debug/net8.0/refint/TestProject1.dll
+/obj/Debug/net8.0/TestProject2.AssemblyInfoInputs.cache
+/obj/Debug/net8.0/ref/TestProject2.dll
+/obj/Debug/net8.0/TestProject2.csproj.FileListAbsolute.txt
+/obj/Debug/net8.0/TestProject2.dll
+/obj/Debug/net8.0/TestProject2.pdb
+/bin/Debug/net8.0/TestProject2.dll
+/bin/Debug/net8.0/TestProject2.pdb
+/obj/Debug/net8.0/refint/TestProject2.dll
 
 /Features/Inventory.feature.cs
 /obj/Debug/net8.0/ref/TestProject2.dll
@@ -141,3 +141,5 @@ appsettings.Local.json
 /Screenshots/*
 /Screenshots/index.html
 *.png
+/obj/Debug/net8.0/TestProject2.AssemblyInfo.cs
+/bin/Debug/net8.0/cs/*
