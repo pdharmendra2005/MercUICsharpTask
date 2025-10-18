@@ -15,7 +15,6 @@ namespace TestProject2.Pages
         private By InventoryPrices => By.XPath("//div[@data-test='inventory-item-price']");
         private By InventoryItemNameUsingPrice(string price) => By.XPath($"//div[@data-test='inventory-item-price' and contains(., '{price}')]/ancestor::div[@data-test='inventory-item-description']//div[@data-test='inventory-item-name']");
         private By AddToCartButton => By.Id("add-to-cart");
-        private By CartIcon => By.XPath("//span[@data-test='shopping-cart-badge']");
         
         #endregion
 
