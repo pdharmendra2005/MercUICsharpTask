@@ -138,7 +138,6 @@ appsettings.Local.json
 /bin/Debug/net8.0/TestProject2.pdb
 /bin/Debug/net8.0/TestProject2.dll
 /obj/Debug/net8.0/TestProject2.csproj.FileListAbsolute.txt
-/Screenshots/AddTheHighestPricesItemToCart_18-10-2025_20-40-38_screenshot.png
-/Screenshots/AddTheHighestPricesItemToCart_18-10-2025_21-17-48_screenshot.png
+/Screenshots/*
 /Screenshots/index.html
 *.png
