@@ -1,0 +1,144 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/bin/Debug/net8.0/nunit_random_seed.tmp
+
+
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio cache/options
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+TestReports/
+
+## Build Results of an ATL Project
+*.tlb
+*.tlh
+*.bsc
+*.vspscc
+*.vssscc
+
+## .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Files built by Visual Studio
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+## Caching files
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+
+## Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+## ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+## NuGet Packages
+*.nupkg
+**/packages/*
+!**/packages/build/
+
+## Others
+*.Cache
+ClientBin/
+[Ss]tyle[Cc]op.*
+~$*
+*~
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.publishsettings
+orleans.codegen.cs
+
+## Backup & report files
+_UpgradeReport_Files/
+Backup*/
+UpgradeLog*.XML
+UpgradeLog*.htm
+ServiceFabricBackup/
+*.rptproj.bak
+
+## Application specific
+appsettings.Development.json
+appsettings.Local.json
+/obj/Debug/net8.0/TestProject1.AssemblyInfoInputs.cache
+/obj/Debug/net8.0/ref/TestProject1.dll
+/obj/Debug/net8.0/TestProject1.csproj.FileListAbsolute.txt
+/obj/Debug/net8.0/TestProject1.dll
+/obj/Debug/net8.0/TestProject1.pdb
+/bin/Debug/net8.0/TestProject1.dll
+/bin/Debug/net8.0/TestProject1.pdb
+/obj/Debug/net8.0/refint/TestProject1.dll
+
+/Features/Inventory.feature.cs
+/obj/Debug/net8.0/ref/TestProject2.dll
+/obj/Debug/net8.0/refint/TestProject2.dll
+/obj/Debug/net8.0/TestProject2.AssemblyInfoInputs.cache
+/obj/Debug/net8.0/TestProject2.dll
+/bin/Debug/net8.0/nunit_random_seed.tmp
+/obj/Debug/net8.0/TestProject2.pdb
+/bin/Debug/net8.0/TestProject2.pdb
+/bin/Debug/net8.0/TestProject2.dll
+/obj/Debug/net8.0/TestProject2.csproj.FileListAbsolute.txt
+/Screenshots/AddTheHighestPricesItemToCart_18-10-2025_20-40-38_screenshot.png
+/Screenshots/AddTheHighestPricesItemToCart_18-10-2025_21-17-48_screenshot.png
+/Screenshots/index.html
+*.png
